@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Life Helper</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="priority_number">Priority Number</string>
+    <string name="enter_password">Enter Password/Code</string>
+    <string name="enter_email">Enter Email/Name</string>
+    <string name="enter_"></string>
+</resources>
