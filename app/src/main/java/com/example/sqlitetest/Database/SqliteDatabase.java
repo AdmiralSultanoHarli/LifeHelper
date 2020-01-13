@@ -22,6 +22,7 @@ public class SqliteDatabase extends SQLiteOpenHelper {
     public static final String COLUMN_COMPANY_NAME = "companyname";
     public static final String COLUMN_EMAIL = "email";
     public static final String COLUMN_PASSWORD = "password";
+    public static final String COLUMN_IMAGE = "image";
 
     public static final String TABLE_USER = "user";
     public static final String COLUMN_USER_ID = "id";
@@ -59,7 +60,8 @@ public class SqliteDatabase extends SQLiteOpenHelper {
 
         String DATA_TABLE = "INSERT INTO " + TABLE_DATA + "(companyname, email, password)" +
                 "VALUES ('BCA', 'Admiral Sultano Harly', '1234'), " +
-                "('MANDIRI', 'Admiral', '1234')";
+                "('MANDIRI', 'Admiral', '1234'), " +
+                "('MUAMALAT', 'Admiral', '1234')";
 
         String DATA_USER = "INSERT INTO " + TABLE_USER + "(name, number, password)" +
                 "VALUES ('Admiral', '0895636823830', 'aaaa')";
