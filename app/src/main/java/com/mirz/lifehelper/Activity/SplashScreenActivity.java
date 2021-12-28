@@ -1,4 +1,4 @@
-package com.example.sqlitetest.Activity;
+package com.mirz.lifehelper.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 

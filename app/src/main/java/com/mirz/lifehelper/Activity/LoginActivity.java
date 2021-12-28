@@ -1,4 +1,4 @@
-package com.example.sqlitetest.Activity;
+package com.mirz.lifehelper.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -13,7 +13,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import com.example.sqlitetest.Database.SqliteDatabase;
+import com.mirz.lifehelper.Database.SqliteDatabase;
 import com.example.sqlitetest.R;
 
 public class LoginActivity extends AppCompatActivity {

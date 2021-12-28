@@ -1,4 +1,4 @@
-package com.example.sqlitetest;
+package com.mirz.lifehelper;
 
 import org.junit.Test;
 

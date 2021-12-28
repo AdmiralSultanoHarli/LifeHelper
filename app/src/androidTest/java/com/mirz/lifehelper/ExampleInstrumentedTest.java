@@ -1,4 +1,4 @@
-package com.example.sqlitetest;
+package com.mirz.lifehelper;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.sqlitetest", appContext.getPackageName());
+        assertEquals("com.example.lifehelper", appContext.getPackageName());
     }
 }

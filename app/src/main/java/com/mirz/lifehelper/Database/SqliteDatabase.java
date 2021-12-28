@@ -1,15 +1,13 @@
-package com.example.sqlitetest.Database;
+package com.mirz.lifehelper.Database;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.widget.Toast;
 
-import com.example.sqlitetest.Data;
+import com.mirz.lifehelper.Data;
 
-import java.nio.DoubleBuffer;
 import java.util.ArrayList;
 
 public class SqliteDatabase extends SQLiteOpenHelper {

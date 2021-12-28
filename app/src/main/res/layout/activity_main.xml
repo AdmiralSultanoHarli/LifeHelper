@@ -6,7 +6,7 @@
     android:id="@+id/activity_to_do"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity.MainActivity"
+    tools:context="com.mirz.lifehelper.Activity.MainActivity"
     android:padding="4dp">
 
     <ScrollView

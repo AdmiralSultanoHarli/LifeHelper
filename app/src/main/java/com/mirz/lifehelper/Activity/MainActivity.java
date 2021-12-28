@@ -1,4 +1,4 @@
-package com.example.sqlitetest.Activity;
+package com.mirz.lifehelper.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.MenuItemCompat;
@@ -18,9 +18,9 @@ import android.widget.FrameLayout;
 import android.widget.SearchView;
 import android.widget.Toast;
 
-import com.example.sqlitetest.Adapter.DataAdapter;
-import com.example.sqlitetest.Data;
-import com.example.sqlitetest.Database.SqliteDatabase;
+import com.mirz.lifehelper.Adapter.DataAdapter;
+import com.mirz.lifehelper.Data;
+import com.mirz.lifehelper.Database.SqliteDatabase;
 import com.example.sqlitetest.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

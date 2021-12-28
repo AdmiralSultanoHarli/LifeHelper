@@ -1,4 +1,4 @@
-package com.example.sqlitetest.Adapter;
+package com.mirz.lifehelper.Adapter;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -18,8 +18,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.sqlitetest.Data;
-import com.example.sqlitetest.Database.SqliteDatabase;
+import com.mirz.lifehelper.Data;
+import com.mirz.lifehelper.Database.SqliteDatabase;
 import com.example.sqlitetest.R;
 
 import java.util.ArrayList;
